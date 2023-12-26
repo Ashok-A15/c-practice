@@ -5,6 +5,7 @@ void display();//funtion prototype
 int main ()
 {
   int a;
+  int b;
   display(); //funtion call
   return 0;
 }
