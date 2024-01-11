@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
     int n = 925, isPrime=1;
     for (int i = 2; i < n; i++)
@@ -18,4 +17,4 @@ int main(){
      
     return 0;
 }
-// n value used as 5,6,9,2,4,8,22,24
+// n value used as 5,6,9,2,8,22,24
