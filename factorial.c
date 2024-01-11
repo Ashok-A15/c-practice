@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
     // What is a factorial?
     // n! = 1 * 2 * 3 * ... * n
