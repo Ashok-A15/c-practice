@@ -8,6 +8,7 @@ int main(){
     int n = 0;
     for (int i = 1; i <= n; i++)
     {
+      
         factorial *= i;
     }
     printf("The value of factorial is %d", factorial);
