@@ -17,4 +17,3 @@ int main(){
      
     return 0;
 }
-// n value used as 5,6,9,2,8,22,24
