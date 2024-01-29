@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
     
-    printf("fristprogram");
+    printf("frist program");
 }
