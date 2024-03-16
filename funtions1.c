@@ -6,7 +6,7 @@ int main ()
 {
   int a;
   int b;
-  display(); //funtion call
+  display(); 
   return 0;
 }
 
