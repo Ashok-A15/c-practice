@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void display();//funtion prototype
+void display();
 
 int main ()
 {
