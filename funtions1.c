@@ -9,7 +9,6 @@ int main ()
   display(); 
   return 0;
 }
-
 void display(){//display defination
  printf("good morning\n");
  printf("good afternoon\n");
