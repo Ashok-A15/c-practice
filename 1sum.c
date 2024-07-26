@@ -1,4 +1,3 @@
-
 //Write a program which does the following
 //Add a printf statement and output the sum of 3 + 4
 //Add another printf statement and output the sum of 2 + 1.
